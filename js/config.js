@@ -66,40 +66,42 @@ class Config {
 	getSearchEngines() {
 
 		const searchEngines = {
-			'startpage': {
-				name: 'Startpage',
-				prefix: 'https://www.startpage.com/do/dsearch?query=',
-				icon: 'startpage'
-			},
-			'qwant': {
-				name: 'Qwant',
-				prefix: 'https://www.qwant.com/?q=',
-				icon: 'qwant'
-			},
-			'ecosia': {
-				name: 'Ecosia',
-				prefix: 'https://www.ecosia.org/search?q=',
-				icon: 'ecosia'
-			},
 			'duckduckgo': {
 				name: 'Duckduckgo',
 				prefix: 'https://duckduckgo.com/?q=',
 				icon: 'duckduckgo'
 			},
-			'yahoo': {
-				name: 'Yahoo',
-				prefix: 'https://search.yahoo.com/search?p=',
-				icon: 'yahoo'
+			'startpage': {
+				name: 'Startpage',
+				prefix: 'https://www.startpage.com/do/dsearch?query=',
+				icon: 'startpage'
+			},
+
+			'ecosia': {
+				name: 'Ecosia',
+				prefix: 'https://www.ecosia.org/search?q=',
+				icon: 'ecosia'
 			},
 			'google': {
 				name: 'Google',
 				prefix: 'https://www.google.com/search?q=',
 				icon: 'google'
 			},
+			'yahoo': {
+				name: 'Yahoo',
+				prefix: 'https://search.yahoo.com/search?p=',
+				icon: 'yahoo'
+			},
+
 			'bing': {
 				name: 'Bing',
 				prefix: 'https://www.bing.com/search?q=',
 				icon: 'bing'
+			},
+			'qwant': {
+				name: 'Qwant',
+				prefix: 'https://www.qwant.com/?q=',
+				icon: 'qwant'
 			}
 		};
 
