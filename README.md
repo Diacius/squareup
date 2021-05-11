@@ -2,7 +2,7 @@
 
 ### A sleek and modern startpage
 
-## [Live Demo](https://manilarome.github.io/squareup/)
+## [My Instance](https://diacius.github.io/squareup/)
 
 <p align='center'>
 	<img alt='squareup' src='scrot.webp'/>
